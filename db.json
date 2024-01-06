@@ -1,0 +1,41 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Badass Leo",
+      "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/thalapathy-vijay-leo-tamil-poster-out-203320686-1x1.jpg?VersionId=Cq.urUGEHbf1ZoJlVdM3H6d42UdwCVrh",
+      "embededLink": "https://www.youtube.com/embed/ZdMZ40GSVmc"
+    },
+    {
+      "id": "3",
+      "caption": "Hukum Jailer",
+      "url": "https://preview.redd.it/every-posters-of-jailer-are-in-different-tone-no-idea-what-v0-kvyzkptoy2cb1.jpg?auto=webp&s=e784199e04d87815e96ebc43336473c70f5d26de",
+      "embededLink": "https://www.youtube.com/embed/1F3hm6MfR1k"
+    }
+  ],
+  "category": [
+    {
+      "categoryName": "Hindi",
+      "allVideos": [],
+      "id": 1
+    },
+    {
+      "categoryName": "Tamil",
+      "allVideos": [],
+      "id": 2
+    },
+    {
+      "categoryName": "Malayalam",
+      "allVideos": [],
+      "id": 3
+    }
+  ],
+  "history": [
+    {
+      "caption": "Hukum Jailer",
+      "embededLink": "https://www.youtube.com/embed/1F3hm6MfR1k",
+      "timestamp": "01/2024, 01:03:29 PM",
+      "id": 4
+    }
+  ]
+}
